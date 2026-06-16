@@ -22,3 +22,11 @@ This project implements an unsupervised anomaly detection system for network tra
 - Cybersecurity Monitoring
 - Network Traffic Analysis
 - Outlier Detection
+
+## Dataset
+
+The dataset used in this project can be accessed here:
+
+Dataset Link: https://www.kaggle.com/datasets/ravikumargattu/network-traffic-dataset
+
+Due to file size limitations, the dataset is not included in this repository.
